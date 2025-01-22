@@ -11,6 +11,7 @@
   <img align="center" alt="Nori-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Nori-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nori-Delphi" height="30" width="40" src="https://www.embarcadero.com/images/logos/logo-page/Delphi_FINAL_ICONS_1024.png">
+  <img align="center" alt="Nori-Kafka" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg">
 </div>
   
   ##
